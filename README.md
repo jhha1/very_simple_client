@@ -3,7 +3,7 @@
 <html>
   <header></header>
   <body>
-    Java Base Server를 테스트 하기위한 매우 간단한 클라이언트. </br>
+    개인 서버로 요청/응답 과정 풀 테스트 위해 구현한 간단한 클라이언트. </br>
     C#
   </body>
 </html>
